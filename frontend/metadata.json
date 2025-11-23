@@ -1,0 +1,7 @@
+{
+  "name": "StreamGenAI",
+  "description": "A YouTube-like video platform featuring a custom video player, generative AI for comment analysis and video summaries, channel management, and social tweet integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
