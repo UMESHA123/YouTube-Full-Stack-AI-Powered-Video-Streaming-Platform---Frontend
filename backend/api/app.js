@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 const app = express();
 const allowedOrigins = ['http://localhost:3001', 'http://localhost:3002', 'http://localhost:3000', "http://localhost:5173", "http://192.168.1.21:3001", "http://0.0.0.0:3000"];
 app.use(cors({
-    origin: [`https://youtube-next.onrender.com`, 'http://localhost:4000', "http://localhost:8000"],
+    origin: [`https://youtube-next.onrender.com`, 'http://localhost:3000', "http://localhost:8000"],
     credentials: true
 }))
 
