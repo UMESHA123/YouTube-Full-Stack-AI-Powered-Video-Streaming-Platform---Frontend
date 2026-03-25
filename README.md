@@ -11,6 +11,10 @@
 
 A production-ready, full-stack video streaming platform inspired by YouTube — featuring real-time notifications, event-driven microservices, cloud media delivery, and an AI-powered content assistant.
 
+### 🎥 Demo
+
+<video src="assets/demo.mov" controls width="100%"></video>
+
 </div>
 
 ---
@@ -364,9 +368,11 @@ CORS_ORIGINS=http://localhost:3000
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo & Screenshots
 
-> _Screenshots coming soon_
+<video src="assets/demo.mov" controls width="100%"></video>
+
+> _Additional screenshots coming soon_
 
 | Page | Preview |
 |---|---|
