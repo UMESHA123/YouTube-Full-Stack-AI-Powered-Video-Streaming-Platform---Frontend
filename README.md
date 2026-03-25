@@ -13,7 +13,7 @@ A production-ready, full-stack video streaming platform inspired by YouTube — 
 
 ### 🎥 Demo
 
-<video src="assets/demo.mov" controls width="100%"></video>
+[![Watch Demo](https://img.youtube.com/vi/5N3fryotUs0/maxresdefault.jpg)](https://youtu.be/5N3fryotUs0)
 
 </div>
 
@@ -370,9 +370,9 @@ CORS_ORIGINS=http://localhost:3000
 
 ## 📸 Demo & Screenshots
 
-<video src="assets/demo.mov" controls width="100%"></video>
+[![Watch Demo](https://img.youtube.com/vi/5N3fryotUs0/maxresdefault.jpg)](https://youtu.be/5N3fryotUs0)
 
-> _Additional screenshots coming soon_
+> _Click the thumbnail above to watch the full demo on YouTube_
 
 | Page | Preview |
 |---|---|
